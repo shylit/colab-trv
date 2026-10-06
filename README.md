@@ -1,3 +1,3 @@
 # Командная работа - shylit
 
-main
+fixed
